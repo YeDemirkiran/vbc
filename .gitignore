@@ -1,3 +1,6 @@
+vbc
+obj/
+
 # Prerequisites
 *.d
 
